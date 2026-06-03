@@ -8,6 +8,12 @@
 |---|---|---|
 | MarkItDown | [tools/markitdown.md](tools/markitdown.md) | 微软开源，把 PDF/PPT/Word/Excel/图片 等转成 LLM 友好的结构化 Markdown |
 
+## Demos
+
+| Demo | 说明 |
+|---|---|
+| [需求文档归一化器](demos/doc-normalizer/) | 混合格式文档批量转 Markdown，本地 MarkItDown 优先 + Azure Document Intelligence 智能回退 |
+
 ## 约定
 
 - 每个工具一篇 `tools/<name>.md`
