@@ -1,4 +1,4 @@
-markitdown[all]>=0.0.1
+markitdown[all]>=0.1.8
 # Azure Document Intelligence 回退所需（仅在使用回退时必须）
 azure-identity>=1.15.0
 azure-ai-documentintelligence>=1.0.0
